@@ -1,16 +1,16 @@
-### Hi there 👋
+Hi there! 
+A bit about me:
 
-<!--
-**Damian700/Damian700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 Interested in:
+- Full-stack development (prioritizing Back-End)
+- Companies from BioTech or Logistic areas with software needs (related with my MD studies or International Trade degree respectively)
 
-Here are some ideas to get you started:
+🐾 Next steps:
+- Continue learning TypeScript, Java and its frameworks
+- Go deeper into programming theory on algorithms, structures and other concepts.
+- Finish the book “Clean Code”
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📲 Contact information:
+
+- Linkedin: www.linkedin.com/in/damian-pavser
+- Email: damianpavser@gmail.com
