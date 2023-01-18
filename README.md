@@ -12,5 +12,5 @@ A bit about me:
 
 📲 Contact information:
 
-- Linkedin: www.linkedin.com/in/damian-pavser
+- LinkedIn: www.linkedin.com/in/damian-pavser
 - Email: damianpavser@gmail.com
