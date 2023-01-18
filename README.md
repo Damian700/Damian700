@@ -3,7 +3,7 @@ A bit about me:
 
 🔍 Interested in:
 - Full-stack development (prioritizing Back-End)
-- Companies from BioTech or Logistic areas with software needs (related with my MD studies or International Trade degree respectively)
+- Companies from Medicine or Logistics areas with software needs (related with my MD studies or International Trade degree respectively)
 
 🐾 Next steps:
 - Continue learning TypeScript, Java and its frameworks
