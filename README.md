@@ -6,9 +6,9 @@ A bit about me:
 - Companies from Medicine or Logistics areas with software needs (related with my MD studies or International Trade degree respectively)
 
 🐾 Next steps:
-- Continue learning TypeScript, Java and its frameworks
-- Go deeper into programming theory on algorithms, structures and other concepts.
-- Finish the book “Clean Code”
+- Designing a Logistic App for tracking truck deliveries (React Native, Node.Js and TypeScript)
+- Learning Go lenguage.
+- Go deeper into programming theory on algorithms, clean Code, SOLID.
 
 📲 Contact information:
 
